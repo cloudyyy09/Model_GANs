@@ -35,9 +35,7 @@ Generator belajar untuk menipu Discriminator, sementara Discriminator belajar un
 
 ## 🗂 3. Struktur Direktori
 ├── model_GANs.ipynb # Notebook utama implementasi dan pelatihan GAN
-
 ├── README.md # Dokumentasi proyek
-
 └── hasil/ # (opsional) folder hasil output model (jika disimpan)
 
 
